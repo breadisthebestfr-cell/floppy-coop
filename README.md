@@ -1,6 +1,6 @@
-# Floppy Co-op (working title)
+# DUMBASSES
 
-A silly online co-op game with floppy gummy movers. Carry furniture, deliver pizzas and fly a plane full of chaotic passengers, alone or with up to 4 friends. New: **Brawl**, everyone against everyone.
+*Professional idiots for hire.* A silly online co-op game with floppy gummy workers. Carry furniture, deliver pizzas and fly a plane full of chaotic passengers, alone or with up to 4 friends. Or fight each other in **Brawl**.
 
 **This is an early test version.** Things will be broken, ugly or unbalanced.
 
@@ -23,9 +23,12 @@ Both players need **Steam open and logged in**, and you need to be **Steam frien
 
 ## Brawl (versus)
 
-In the lobby, the host walks up to the big screen, presses **E** and picks **BRAWL (versus)** -> **Warehouse** -> **START MATCH!**
-Grab a weapon off a glowing pad. With a pistol: hold **Right mouse** to aim, **Left mouse** to shoot. With the bat: **Left mouse** swings. **Q** drops it.
-Pop the others into gummy pieces or throw them off the edge. Falling off by yourself costs a point. Empty spots are filled with practice dummies.
+In the lobby, the host walks up to the big screen, presses **E** and picks **BRAWL (versus)**, a map, and the rules (free-for-all or 2 vs 2, respawns or rounds, which weapons, bot skill). Then **START MATCH!**
+
+Maps: **Warehouse**, **Airliner** (fight on a flying jet: cabin, wings and roof), **Rooftops** (two city rooftops at sunset: ride the crane and the window cleaner's platform across the gap), **Bouncy Castle** (a birthday party on a cliff: bouncy castle, pool, barbecue).
+
+Grab a weapon off a glowing pad. Guns: hold **Right mouse** to aim, **Left mouse** to shoot. Bat / rubber chicken: **Left mouse** swings. **Q** drops it. Funny weapons too: water gun, leaf blower, bubble gun, banana peels.
+Pop the others into gummy pieces or throw them off the edge. Falling off by yourself costs a point. Empty spots are filled with bots.
 
 ## Old / slow PC?
 
@@ -33,7 +36,7 @@ Press **Esc** in the game -> **Settings** -> **Graphics** -> **Quality: Potato (
 
 ## Controls
 
-WASD walk, Space jump, Left/Right mouse = grab with the left/right hand, E use, F flop over, R respawn, Q drop weapon (Brawl), Esc menu + settings.
+WASD walk, Space jump, Left/Right mouse = grab with the left/right hand, E use, F flop over, R respawn, Q drop weapon (Brawl), Middle mouse ping (show your friends a spot), Esc menu + settings.
 
 ---
 The game's source code is not public. All rights reserved.
