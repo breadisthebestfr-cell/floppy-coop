@@ -11,6 +11,11 @@
 3. Double-click **FloppyCoop.exe**.
    - Windows may say "Windows protected your PC" because the game isn't signed. Click **More info** -> **Run anyway**.
 
+### Updates
+
+From version **test-6** on, the game checks this page when it starts. If there's a newer version, the menu shows **"New version ... is out! [Update]"**: click it, it downloads and restarts by itself. (If you have test-5 or older, download test-6 by hand once.)
+Everyone playing together needs the same version; the game tells you if yours doesn't match.
+
 ## Play together (Steam)
 
 Both players need **Steam open and logged in**, and you need to be **Steam friends**.
