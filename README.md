@@ -35,6 +35,10 @@ Maps: **Warehouse**, **Airliner** (fight on a flying jet: cabin, wings and roof)
 Grab a weapon off a glowing pad. Guns: hold **Right mouse** to aim, **Left mouse** to shoot. Bat / rubber chicken: **Left mouse** swings. **Q** drops it. Funny weapons too: water gun, leaf blower, bubble gun, banana peels.
 Pop the others into gummy pieces or throw them off the edge. Falling off by yourself costs a point. Empty spots are filled with bots.
 
+## Your locker (hats + colours)
+
+Every job you finish pays money into your own wallet. In the HQ, walk into the **LOCKERS** room and press **E** at the lockers: try on and buy hats, face extras (moustache, sunglasses, monocle...) and body colours. Some things can only be unlocked with achievements (get fired, break 10 things, land a plane perfectly, win a Brawl match...). Your progress is saved on your own PC.
+
 ## Old / slow PC?
 
 Press **Esc** in the game -> **Settings** -> **Graphics** -> **Quality: Potato (old PCs)**, then close the menu (the game restarts once).
