@@ -2,6 +2,8 @@
 
 *Professional idiots for hire.* A silly online co-op game with floppy gummy workers. Carry furniture, deliver pizzas, fly a plane full of chaotic passengers and herd goats at the petting zoo, alone or with up to 4 friends. Or fight each other in **Brawl**.
 
+Also on **itch.io: https://akurlite.itch.io/dumbasses**
+
 **This is an early test version.** Things will be broken, ugly or unbalanced.
 
 ## Download + play (Windows)
