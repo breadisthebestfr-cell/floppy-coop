@@ -6,9 +6,9 @@
 
 ## Download + play (Windows)
 
-1. Go to **[Releases](../../releases)** (on the right side of this page) and download the newest `FloppyCoop-....zip`.
+1. Go to **[Releases](../../releases)** (on the right side of this page) and download the newest `DUMBASSES-vN.zip` (not the loose `FloppyCoop.exe`: that one is for the auto-updater).
 2. Right-click the zip -> **Extract All**.
-3. Double-click **FloppyCoop.exe**.
+3. Double-click **DUMBASSES.exe** (older versions: FloppyCoop.exe).
    - Windows may say "Windows protected your PC" because the game isn't signed. Click **More info** -> **Run anyway**.
 
 ### Updates
@@ -43,7 +43,7 @@ Every job you finish pays money into your own wallet. In the HQ, walk into the *
 
 ## Old / slow PC?
 
-Press **Esc** in the game -> **Settings** -> **Graphics** -> **Quality: Potato (old PCs)**, then close the menu (the game restarts once).
+The first time you start the game it picks graphics settings for your graphics card. To change them: press **Esc** in the game -> **Settings** -> **Graphics** -> **Quality: Potato (old PCs)**, then close the menu (the game restarts once).
 
 ## Controls
 
