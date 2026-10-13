@@ -39,6 +39,14 @@ Maps: **Warehouse**, **Airliner** (fight on a flying jet: cabin, wings and roof)
 Grab a weapon off a glowing pad. Guns: hold **Right mouse** to aim, **Left mouse** to shoot. Bat, frying pan, sword, sledgehammer, rubber chicken: **Left mouse** swings (the sledgehammer SLAMS the ground and knocks over everyone close). **Q** drops it. Funny weapons too: water gun, leaf blower, bubble gun, banana peels.
 Pop the others into gummy pieces or throw them off the edge. Falling off by yourself costs a point. Empty spots are filled with bots.
 
+## Pizza Delivery: Downtown
+
+The second pizza level: a city with real traffic. Cars stop at red lights and brake for you, but step out right in front of one and you get run over. Some orders go **UPSTAIRS**: park the scooter, grab the pizza and run up the outside stairs to the balcony door for a bigger tip.
+
+## The HQ
+
+Behind the lockers is the **HALL OF FAME** (your achievements, your career numbers and your hat collection) and next to storage the **GARAGE** (more scooters to ride). Climb the **outside stairs** on the right side of the building up to the **roof deck** (hot tub, helipad, no helicopter).
+
 ## Your locker (hats + colours)
 
 Every job you finish pays money into your own wallet. In the HQ, walk into the **LOCKERS** room and press **E** at the lockers: try on and buy hats, face extras (moustache, sunglasses, monocle...), body colours, overall colours and things for your back (backpacks, a fake jetpack, a hero cape, a turtle shell). Some things can only be unlocked with achievements (get fired, break 10 things, land a plane perfectly, win a Brawl match...). Your progress is saved on your own PC.
